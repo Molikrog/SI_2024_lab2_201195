@@ -2,6 +2,11 @@
 Martin Simonoski
 201195
 
+2.
+![SILab2_CFG](https://github.com/Molikrog/SI_2024_lab2_201195/assets/166874918/a22c7bf9-6b9b-4cac-994f-3b3d79e405e6)
+
+
+
 3.
 M = E - N + 2*P
 

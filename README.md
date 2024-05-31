@@ -6,13 +6,17 @@ Martin Simonoski
 ![SILab2_CFG](https://github.com/Molikrog/SI_2024_lab2_201195/assets/166874918/a22c7bf9-6b9b-4cac-994f-3b3d79e405e6)
 
 
+![SI Graph Modification](https://github.com/Molikrog/SI_2024_lab2_201195/assets/166874918/e11d05a4-907f-4c61-82a8-07aac11e73d9)
 
 3.
-M = E - N + 2*P
 
-M = 23 - 20 + 2
+C = E - N + 2
 
-M = 5
+E = 30
+
+N = 23
+
+C = 30 - 23 + 2 = 9
 
 4.
 
